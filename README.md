@@ -8,7 +8,7 @@
 
 - Start docker `docker-compose up -d`
 - Stop docker `docker-compose down`
-- Clean volume `docker volume `
+- Clean volume `docker volume prune`
 
 ## Access link
 - dev.local
